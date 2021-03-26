@@ -67,14 +67,16 @@ h3 {
 /* Footer */
 .footer {
     background-color: var(--gris);
-    padding: 0.5rem 0;
+    padding: 0rem ;
     margin-top: 2rem;
+    display: flex;
+    justify-content: center;
 }
 
 .footer__texto {
     text-align: center;
     font-family: var(--fuente_principal);
-    font-size: 2.2rem;
+    font-size: 1.3rem;
 }
 
 /* Navegacion */
@@ -102,4 +104,25 @@ h3 {
         flex-direction: column;
         text-align: center;
     }
+}
+
+/* Productos */
+.prodcuto {
+
+}
+
+.producto__imagen {
+
+}
+
+.producto__informacion {
+
+}
+
+.prodcuto__nombre {
+
+}
+
+.producto__precio {
+
 }
